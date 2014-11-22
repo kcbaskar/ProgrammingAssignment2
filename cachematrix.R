@@ -6,7 +6,6 @@
 # > cacheSolve(cx)                            // Call the 2nd time, so return
 
 
-
 # makeCacheMatrix: return a list of functions to:
 # 1. Set the value of the matrix
 # 2. Get the value of the matrix
